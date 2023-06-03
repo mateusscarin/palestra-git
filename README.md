@@ -1,5 +1,5 @@
 # Palestra Git
-    Repositório com intuito de documentar o conteúdo abordado na palestra lecionada ao pessoal da turma do 3º Semestre de Sistemas para Internet 
+Repositório com intuito de documentar o conteúdo abordado na palestra lecionada ao pessoal da turma do 3º Semestre de Sistemas para Internet 
 ## Sistema de controle de versão 
 - Software versioning
 - Gerenciamento de mudanças
@@ -44,7 +44,7 @@
 - Commits em arquivos iguais
 
 ## Git x GitHub 
-!imagem
+![git_vs_github](https://github.com/mateusscarin/palestra-git/assets/79494982/ead0c173-129d-4302-aef8-2b62eeedd44f)
 
 ### HISTORICO
 - `git log`
