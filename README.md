@@ -11,6 +11,13 @@ Repositório com intuito de documentar o conteúdo abordado na palestra lecionad
 - Controle das versões
 - Rastreio de modificações
 
+## Estrutura do Git
+- Repositórtio Local
+  - Working Directory
+  - Staging area
+  - Repository
+- Repositório Remoto
+
 ## Conventional commits
 - Commits semânticos
 - Convenção do Angular
